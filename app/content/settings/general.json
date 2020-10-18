@@ -1,10 +1,10 @@
 {
   "title": "Home",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.",
+  "titleTemplate": "| exsurgo",
+  "welcomeText": "# The Professional Development Society of Berkeley.\n\n We are dedicated to getting Berkeley students the resources to explore their professional interests, and develop the skills and network necessary to pursue those interests.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
+  "seoDescription": "The Professional Development Society of Berkeley, giving workshops from top consulting clubs and providing networking opportunities.",
   "seoMetaImage": ""
 }
