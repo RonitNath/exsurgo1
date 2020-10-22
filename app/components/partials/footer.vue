@@ -26,7 +26,7 @@
       </a>
     </div>
     <div>
-     <p>We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</p>
+     <p class="string1">We are a student group acting independently of the University of California. We take full responsibility for our organization and this web site.</p>
     </div>
     <div>
       <a href="https://www.ocf.berkeley.edu">
@@ -48,4 +48,8 @@ export default class Footer extends Vue {}
 .footer {
   background-color: $bluise;
 }
+
+.string1 {
+  color: $white;
+ }
 </style>
