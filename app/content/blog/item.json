@@ -1,6 +1,6 @@
 {
     "publishedAt": "14th Aug 2020",
-    "featuredImage": "/images/uploads/blog1.png",
+    "featuredImage": "../../static/images/uploads/blog1.png",
     "title": "Launch",
     "content": "See our Instagram for the most up to date information!",
     "slug": "News"
