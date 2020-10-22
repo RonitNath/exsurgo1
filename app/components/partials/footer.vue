@@ -50,6 +50,6 @@ export default class Footer extends Vue {}
 }
 
 .string1 {
-  color: $white;
+  color: #FFFFFF;
  }
 </style>
