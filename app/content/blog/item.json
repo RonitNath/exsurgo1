@@ -2,5 +2,6 @@
     "publishedAt": "14th Aug 2020",
     "featuredImage": "/images/uploads/blog1",
     "title": "Testpage",
-    "content": "Who knows what this says"
+    "content": "Who knows what this says",
+    "slug": "News"
   }
